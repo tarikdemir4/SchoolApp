@@ -8,15 +8,16 @@ import { StudentModel } from '../models/student.model';
 export class StudentPipe implements PipeTransform {
 
   transform(value: StudentModel[], search: string): StudentModel[] {
-    if(search === ""){
+    if(search===""){
+
       return value;
     }
 
-    return value.filter(p=> 
-      p.fullName.toLocaleLowerCase().includes(search.toLocaleLowerCase()) || 
+    return value.filter(p=>
+      p.fullName.toLocaleLowerCase().includes(search.toLocaleLowerCase())||
       p.identityNumber.includes(search) ||
       p.studentNumber.toString().includes(search)
-    );    
+      );
   }
 
 }
