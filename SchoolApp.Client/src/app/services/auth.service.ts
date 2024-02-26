@@ -6,42 +6,40 @@ import { jwtDecode } from 'jwt-decode';
   providedIn: 'root'
 })
 export class AuthService {
-  token:string="";
+  token: string = "";
+  constructor(private router: Router) { } 
 
-  constructor(private router: Router) { }
-
-
-  isAuthenticated() {
-    const responseString: string | null = localStorage.getItem("response");
-    if (responseString != null) {
+  isAuthenticated(){
+    const responseString:string | null = localStorage.getItem("response");
+    if(responseString != null){
       try {
-        this.token=responseString;
+        this.token = responseString;
         const decode = jwtDecode(responseString);
 
-        const now:number=new Date().getTime()/1000;
-        const exp:number | undefined=decode.exp;
+        const now:number = new Date().getTime()/1000;
+        const exp: number | undefined = decode.exp;
 
-        if(exp==undefined){
+
+        if(exp == undefined){
           this.router.navigateByUrl("/login");
-          return false;
+          return false;            
         }
 
-        if(exp<now){
+        if(exp < now){
           this.router.navigateByUrl("/login");
-          return false;
-        }
-        
+          return false;  
+        }  
+
         return true;
-      } catch (error) {
-        console.warn(error);
-        this.router.navigateByUrl("/login");
-        return false;
         
-      }
-    } else {
+      } catch (error) {
+        console.warn(error); 
+        this.router.navigateByUrl("/login");
+        return false;  
+      }      
+    }else{
       this.router.navigateByUrl("/login");
       return false;
     }
-
   }
 }

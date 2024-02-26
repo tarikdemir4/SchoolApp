@@ -7,49 +7,54 @@ import { SwalService } from './swal.service';
   providedIn: 'root'
 })
 export class HttpService {
+  isLoading: boolean = false;
 
   constructor(
     private http: HttpClient,
     private auth: AuthService,
-    private swall:SwalService
+    private swal: SwalService
   ) { }
 
-  get(api: string, callBack: (res: any) => void) {
-    this.http.get(`https://localhost:7265/api/${api}`, {
+  get(api: string, callBack: (res:any)=> void, errorCallBack?: ()=> void) {
+    this.isLoading = true;
+    this.http.get(`https://localhost:7135/api/${api}`, {
       headers: {
         "Authorization": "Bearer " + this.auth.token
       }
     }).subscribe({
       next: (res: any) => {
         callBack(res);
-
+        this.isLoading = false;
       },
       error: (err: HttpErrorResponse) => {
         console.log(err);
-
+        this.isLoading = false;
+        if(errorCallBack != null){
+          errorCallBack();
+        }
       }
-
     })
   }
 
-  post(api: string, body: any, callBack: (res: any) => void) {
-    this.http.post(`https://localhost:7265/api/${api}`,body, {
+  post(api: string, body:any,callBack: (res:any)=> void, errorCallBack?: ()=> void) {
+    this.isLoading = true;
+    this.http.post(`https://localhost:7135/api/${api}`,body, {
       headers: {
         "Authorization": "Bearer " + this.auth.token
       }
     }).subscribe({
       next: (res: any) => {
         callBack(res);
-
+        this.isLoading = false;
       },
       error: (err: HttpErrorResponse) => {
-        this.swall.callToast(err.error.Message,'error');
+        this.swal.callToast(err.error.Message, "error");
         console.log(err);
-
+        this.isLoading = false;
+        if(errorCallBack != null){
+          errorCallBack();
+        }
       }
-
     })
   }
-
-
 }
