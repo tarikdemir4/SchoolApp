@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GhtliSyy8att//AFKoxJzFvxYUMbALsMD3EO8cYxGFtLJj1Z4On3IZ/OaT0A8xoUdnOIt1Cqm3iHHJu+3TTPxw==",
+  "dgSpecHash": "/djdnKVBBPo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
+  "projectFilePath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demir\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

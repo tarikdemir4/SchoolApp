@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWjPxr5de4eWsTuK13RvpGwbXc/6tboOgor5lrEAimGArvN8c7aqgAVtWBYSkZRP8O8kzDjRGlpgRXkY4YEoXQ==",
+  "dgSpecHash": "RitoahsxE0k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
+  "projectFilePath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demir\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

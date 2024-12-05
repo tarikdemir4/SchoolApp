@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj": {}
+    "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj": {
+    "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
+        "projectUniqueName": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
         "projectName": "NTierArchitecture.Business",
-        "projectPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
+        "projectPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\obj\\",
+        "outputPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj"
+              "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj": {
+                "projectPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj"
               },
-              "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
-                "projectPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj"
+              "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
+                "projectPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj"
               }
             }
           }
@@ -41,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,18 +86,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj": {
+    "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
+        "projectUniqueName": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
         "projectName": "NTierArchitecture.DataAccess",
-        "projectPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
+        "projectPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\obj\\",
+        "outputPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,14 +108,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
-                "projectPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj"
+              "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
+                "projectPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj"
               }
             }
           }
@@ -118,6 +125,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -151,18 +163,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
+    "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
+        "projectUniqueName": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
         "projectName": "NTierArchitecture.Entities",
-        "projectPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
+        "projectPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\Desktop\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\obj\\",
+        "outputPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,6 +185,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -185,6 +198,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -212,7 +230,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -35,3 +35,16 @@ C:\Users\demir\Desktop\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj
 C:\Users\demir\Desktop\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\refint\NTierArchitecture.Entities.dll
 C:\Users\demir\Desktop\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.pdb
 C:\Users\demir\Desktop\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\ref\NTierArchitecture.Entities.dll
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.deps.json
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.csproj.AssemblyReference.cache
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.AssemblyInfoInputs.cache
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.AssemblyInfo.cs
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.csproj.CoreCompileInputs.cache
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.sourcelink.json
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.dll
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\refint\NTierArchitecture.Entities.dll
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.pdb
+C:\GitHub\SchoolApp\SchoolApp.Server\NTierArchitecture.Entities\obj\Debug\net8.0\ref\NTierArchitecture.Entities.dll

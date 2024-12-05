@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\YMYP1\\09.NET\\NTierArchitecture\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B39BA36-02F7-49BA-A8E4-C793DD32FB11}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\github\\schoolapp\\schoolapp.server\\ntierarchitecture.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B39BA36-02F7-49BA-A8E4-C793DD32FB11}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14D66E0-8D89-4A16-8C3B-93387A94E891}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\github\\schoolapp\\schoolapp.server\\ntierarchitecture.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14D66E0-8D89-4A16-8C3B-93387A94E891}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14D66E0-8D89-4A16-8C3B-93387A94E891}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\github\\schoolapp\\schoolapp.server\\ntierarchitecture.entities\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14D66E0-8D89-4A16-8C3B-93387A94E891}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14D66E0-8D89-4A16-8C3B-93387A94E891}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\github\\schoolapp\\schoolapp.server\\ntierarchitecture.entities\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14D66E0-8D89-4A16-8C3B-93387A94E891}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Services\\AuthService.cs",
+              "ToolTip": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:11:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\AppUser.cs",
+              "ToolTip": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\Models\\AppUser.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:11:22.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "ToolTip": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Models\\ClassRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:11:16.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\Student.cs",
+              "ToolTip": "C:\\GitHub\\SchoolApp\\SchoolApp.Server\\NTierArchitecture.Entities\\Models\\Student.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:58:24.026Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -23,11 +116,25 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
