@@ -15,7 +15,9 @@ import { Router } from '@angular/router';
 export class LoginComponent {
   model: LoginModel = new LoginModel();
 
+  
   constructor(
+    
     private http: HttpClient,
     private router: Router
   ){    
