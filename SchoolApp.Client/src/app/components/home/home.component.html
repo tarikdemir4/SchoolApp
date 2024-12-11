@@ -14,14 +14,10 @@
     </div>
   </section>
 
-
-
   <section class="content">
-
     <div class="card">
       <div class="card-header">
         <h3 class="card-title">Title</h3>
-
         <div class="card-tools">
           <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
             <i class="fas fa-minus"></i>
@@ -32,7 +28,7 @@
         </div>
       </div>
       <div class="card-body">
-        <!-- Add Student Btn -->
+        <!-- Add Student Button -->
         <button class="btn btn-danger btn-sm mb-1" (click)="getAllStudentsByClassRoomId(request.id)">Get All Students By
           Class Room</button>
         <button class="btn btn-primary btn-sm mb-1 ms-1" data-toggle="modal" data-target="#addStudentModal">
@@ -40,7 +36,6 @@
         <button routerLink="/print/{{request.id}}" class="btn btn-primary btn-sm mb-1 ms-1" data-toggle="modal"
           data-target="#addStudentModal">
           Print PDF</button>
-
         <!-- Card -->
         <div class="card card-primary card-outline card-outline-tabs">
           <div class="card-header p-0 border-bottom-0">
@@ -78,7 +73,6 @@
               }@else {
               <div class="row">
                 <div class="col-9">
-
                 </div>
                 <div class="col-3">
                   <i class="fa-solid fa-magnifying-glass text-secondary"
@@ -115,7 +109,6 @@
                     }
                   </tbody>
                 </table>
-
                 <!-- Pagination -->
                 <div class="mt-1 d-flex justify-content-center">
                   <nav aria-label="Page navigation example ">
@@ -151,7 +144,6 @@
   </section>
 </div>
 
-
 <div class="modal fade" id="addStudentModal" data-backdrop="static" data-keyboard="false" tabindex="-1"
   aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">
@@ -177,7 +169,6 @@
               }
             </select>
           </div>
-
           <!-- First Name -->
           <div class="form-group mt-1">
             <label for="firstName">First Name</label>
@@ -185,7 +176,6 @@
               [(ngModel)]="addStudentModel.firstName" required minlength="3">
             <div class="invalid-feedback"></div>
           </div>
-
           <!-- Last Name -->
           <div class="form-group mt-1">
             <label for="lastName">Last Name</label>
@@ -193,7 +183,6 @@
               required minlength="3">
             <div class="invalid-feedback"></div>
           </div>
-
           <!-- Identity Number -->
           <div class="form-group mt-1">
             <label for="identityNumber">Identity Number</label>
@@ -209,7 +198,6 @@
     </div>
   </div>
 </div>
-
 <!-- Add Class Room Modal -->
 <div class="modal fade" id="addClassRoomModal" data-backdrop="static" data-keyboard="false" tabindex="-1"
   aria-hidden="true">
@@ -222,7 +210,6 @@
           <i class="fa-solid fa-x"></i>
         </button>
       </div>
-
       <form formValidate #addClassRoomForm="ngForm" (ngSubmit)="createClassRoom(addClassRoomForm)" autocomplete="off">
         <div class="modal-body">
           <!-- Name -->
@@ -233,7 +220,7 @@
             <div class="invalid-feedback"></div>
           </div>
         </div>
-        
+
         <div class="modal-footer">
           <button type="submit" class="btn btn-primary">Save</button>
         </div>
@@ -241,6 +228,3 @@
     </div>
   </div>
 </div>
-
-
-
