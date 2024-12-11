@@ -7,4 +7,5 @@ export class StudentModel{
     studentNumber:number = 0;
     classRoomId: string = "0";
     index: number = 0;
+    
 }
