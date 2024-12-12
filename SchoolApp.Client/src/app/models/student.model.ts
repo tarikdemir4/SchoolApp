@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 export class StudentModel{
 
     id: string = "";
