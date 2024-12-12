@@ -3,7 +3,6 @@
 
 
 export class StudentModel{
-
     id: string = "";
     firstName: string = "";
     lastName: string = "";
