@@ -1,7 +1,6 @@
 
 
 
-
 export class StudentModel{
     id: string = "";
     firstName: string = "";
@@ -13,7 +12,6 @@ export class StudentModel{
     index: number = 0;
 
 
-
-
+    
 
 }
