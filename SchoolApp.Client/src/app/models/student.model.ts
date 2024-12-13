@@ -12,6 +12,5 @@ export class StudentModel{
     index: number = 0;
 
 
-    
 
 }
