@@ -11,6 +11,4 @@ export class StudentModel{
     classRoomId: string = "0";
     index: number = 0;
 
-
-
 }
