@@ -1,0 +1,17 @@
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.Business.deps.json
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.Business.dll
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.Business.pdb
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.DataAccess.dll
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.Entities.dll
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.DataAccess.pdb
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\bin\Debug\net8.0\SchoolApp.Entities.pdb
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.csproj.AssemblyReference.cache
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.AssemblyInfo.cs
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolAp.0868E8BA.Up2Date
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.dll
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\refint\SchoolApp.Business.dll
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\SchoolApp.Business.pdb
+C:\Users\demir\Desktop\YeniProjeler\SchoolApp\SchoolApp.Business\obj\Debug\net8.0\ref\SchoolApp.Business.dll
