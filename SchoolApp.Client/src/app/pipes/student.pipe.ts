@@ -6,6 +6,7 @@ import { StudentModel } from '../models/student.model';
   standalone: true
 })
 
+
 export class StudentPipe implements PipeTransform {
   transform(value: StudentModel[], search: string): StudentModel[] {
     if(search === ""){
