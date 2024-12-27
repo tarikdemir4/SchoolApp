@@ -1,6 +1,7 @@
 import { Pipe, PipeTransform } from '@angular/core';
 import { StudentModel } from '../models/student.model';
 
+
 @Pipe({
   name: 'student',
   standalone: true
@@ -13,6 +14,7 @@ export class StudentPipe implements PipeTransform {
       return value;
     }
 
+    
 
     return value.filter(p=> 
       p.fullName.toLocaleLowerCase().includes(search.toLocaleLowerCase()) || 

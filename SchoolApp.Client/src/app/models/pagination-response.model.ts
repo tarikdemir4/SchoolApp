@@ -5,4 +5,5 @@ export class PaginationResponseModel<T>{
     pageNumber: number = 1;
     pageSize: number = 10;
     totalPages: number = 1;
+    
 }
