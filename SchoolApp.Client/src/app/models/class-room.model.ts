@@ -3,8 +3,4 @@ export class ClassRoomModel{
     name: string = "";
 
 
-
-
-
-    
 }
