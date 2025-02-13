@@ -5,8 +5,11 @@ import { RouterOutlet } from '@angular/router';
   
 
 
-  
+
   standalone: true,
+
+
+  
   imports: [RouterOutlet],
 
   template: "<router-outlet></router-outlet>"  
